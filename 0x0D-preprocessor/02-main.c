@@ -1,6 +1,5 @@
 #include <stdlib.h>
 #include <stdio.h>
-
 /**
  * Main - To print the name of a file, followed by a new line
  *
