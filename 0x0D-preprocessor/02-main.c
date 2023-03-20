@@ -4,7 +4,6 @@
  * Main - To print the name of a file, followed by a new line
  *
  * Return: 0
- *
  **/
 
 int main(void)
